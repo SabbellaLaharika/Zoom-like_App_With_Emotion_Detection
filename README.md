@@ -29,7 +29,7 @@ This project focuses on detecting facial expressions using the YOLOv11n model, a
 
 ## 🎥 Output Video
 
-([https://drive.google.com/file/d/1i_VaJ2vNtatfaLERCGQO17yig5ckMe81/view?usp=drive_link])
+[Click on this link to view the output](https://drive.google.com/file/d/1i_VaJ2vNtatfaLERCGQO17yig5ckMe81/view?usp=drive_link)
 
 ## 🛠️ Setup
 1. Clone the repository:
